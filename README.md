@@ -1,4 +1,12 @@
-## Hi there 👋
+# Ingrid Maribel Díaz Ramírez 😄
+Ingresó a la `[Universidad Tecnológica de la Mixteca](https://www.utm.mx/web/)` en la carrera de Ingeniería en Mecatrónica, en en el año 2022. Actualmente cursa el séptimo semestre en la misma.
+![UTM](https://www.utm.mx/images/utm_large.png)
+
+Cuenta con conocimientos en programación en lenguaje C, Java, noción en VHDL, interés en Python, lenguaje ensamblador y arduino, así como habilidades en el manejo de software como lo son SolidWorks, Proteus, Multisim, Circuit Wizard, noción en FluidSIM, Matlab.
+
+Realizó un periodo de estancias, en la empresa **AVG INTEGRATION & AUTOMATION**, en Guadalajara, México, completando un total de 280 horas. Donde se le asignaron funciones de revisión, diseño, simulación y puesta en marcha de equipos de automatización industrial enfocados en tecnología 4.0, con el proyecto titulado, _Integración, comunicación, enlace y puesta en marcha de dispositivos de automatización mediante HMI, PLC y protocolo Ethernet IP/IO-Link_, en el cual se desarrolló un demo de visualización, en el que se utilizaron diferentes tipos de sensores; ópticos, magnéticos, fotoeléctricos, inductivos. De igual forma, recibió en dicha empresa un curso de sensórica y neumática.
+Debido al proyecto realizado, reforzó la habilidad de trabajo en equipo, liderazgo, la capacidad de resolución de problemas, comunicación, creatividad. Además de que, se adapta fácilmente a diferentes entornos laborales y sociales. :iphone: :computer: :briefcase:
+
 
 <!--
 **ingrid-dr1/ingrid-dr1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
