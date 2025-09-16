@@ -1,5 +1,5 @@
 # Ingrid Maribel Díaz Ramírez 😄
-Ingresó a la `[Universidad Tecnológica de la Mixteca](https://www.utm.mx/web/)` en la carrera de Ingeniería en Mecatrónica, en en el año 2022. Actualmente cursa el séptimo semestre en la misma.
+Ingresó a la [Universidad Tecnológica de la Mixteca](https://www.utm.mx/web/) en la carrera de Ingeniería en Mecatrónica, en en el año 2022. Actualmente cursa el séptimo semestre en la misma.
 ![UTM](https://www.utm.mx/images/utm_large.png)
 
 Cuenta con conocimientos en programación en lenguaje C, Java, noción en VHDL, interés en Python, lenguaje ensamblador y arduino, así como habilidades en el manejo de software como lo son SolidWorks, Proteus, Multisim, Circuit Wizard, noción en FluidSIM, Matlab.
